@@ -8,8 +8,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "Crypto Gaming Platform",
-  description: "Play games and win crypto rewards",
-  generator: "v0.app",
+  description: "Play games and win crypto rewards"
 }
 
 export default function RootLayout({
